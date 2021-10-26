@@ -21,7 +21,7 @@ echo -e "8888888888 8888888P\"  8888888     888           888    888  \"Y88888P\
 echo "Github Repository https://github.com/ErvisTusha/Edit-hosts"
 echo -e "Creator: ${RED}${BOLD} Ervis Tusha ${NC}  Contact : ${RED}${BOLD}https://twitter.com/ET ${NC} \n"
 
-if [ "$IP" == "-h" ] || [ "$IP" == "--help" ] || [ ! -n "$IP" ]; then
+if [ "$IP" == "-h" ] || [ "$IP" == "--help" ] || [ ! -n "$1" ]; then
 
   echo -e "usage:\n"
   echo "addhost IP DOMAIN"
