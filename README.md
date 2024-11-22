@@ -1,4 +1,8 @@
 # Edit-hosts
+
+**This repository has been archived. Access the new version [here](https://github.com/ErvisTusha/hosts).**
+
+## Creator
 Github Repository https://github.com/ErvisTusha/Edit-hosts \
 Creator:  Ervis Tusha   Contact : https://twitter.com/ET  \
 \
